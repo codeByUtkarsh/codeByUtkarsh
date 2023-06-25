@@ -1,4 +1,4 @@
-                    🎓 Utkarsh Srivastava 🌟 Passionate Computer Science and Engineering Student
+                🎓 Utkarsh Srivastava 🌟 Passionate Computer Science and Engineering Student
 
 🔍 Seeking Internship Opportunities | 💡 Aspiring Technologist | 📚 B.Tech, Computer Science and Engineering
 
