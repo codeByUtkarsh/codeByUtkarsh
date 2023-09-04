@@ -2,7 +2,7 @@
 
 🔍 Seeking Internship Opportunities | 💡 Aspiring Technologist | 📚 B.Tech, Computer Science and Engineering
 
-👋 Greetings! Welcome to my LinkedIn profile. I'm excited to connect with professionals from the tech industry, 
+👋 Greetings! Welcome to my Github profile. I'm excited to connect with professionals from the tech industry, 
 explore new opportunities, and share my journey as a motivated Computer Science and Engineering student.
 
 💼 Experience
