@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/theutkarshsrivastava/)**
 
-- 🧲 Help each other **[Discord Community](https://discord.gg/naQUPVWvSs)**
+<!-- - 🧲 Help each other **[Discord Community](https://discord.gg/naQUPVWvSs)** -->
 
 - 📬 DM on **[Instagram](https://www.instagram.com/liftwith_utkarsh/)**
 
