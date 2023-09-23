@@ -1,34 +1,27 @@
-                🎓 Utkarsh Srivastava 🌟 Passionate Computer Science and Engineering Student
 
-🔍 Seeking Internship Opportunities | 💡 Aspiring Technologist | 📚 B.Tech, Computer Science and Engineering
+<h1 align="center">Hi 👋, I'm Utkarsh Srivastava</h1>
 
-👋 Greetings! Welcome to my Github profile. I'm excited to connect with professionals from the tech industry, 
-explore new opportunities, and share my journey as a motivated Computer Science and Engineering student.
 
-💼 Experience
+- 🔭 I’m a passionate MERN stack developer from INDIA
 
-During my time in the B.Tech program, I have developed a strong foundation in computer science principles, 
-programming languages, algorithms, and data structures. I have gained hands-on experience in various software 
-development projects, both individually and as part of a team. These experiences have honed my problem-solving 
-skills and ability to deliver innovative solutions.
+- 🌱 I’m currently exploring **MERN Stack Development**
 
-🔬 Technical Skills
+- 💬 Ask me about **Java & MERN Stack**
 
-✅ Programming Languages: Java, JavaScript
+<!-- - 👁️‍🗨️ Showcase **[Portfolio]()**-->
 
-✅ Web Development: HTML, CSS, JavaScript, React
+- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/theutkarshsrivastava/)**
 
-✅ Database Systems: SQL, MongoDB
+- 🧲 Help each other **[Discord Community](https://discord.gg/naQUPVWvSs)**
 
-✅ Version Control: Git, GitHub
+- 📬 DM on **[Instagram](https://www.instagram.com/liftwith_utkarsh/)**
 
-✅ Operating Systems: Windows, Linux
+- 🖥️ DM on **[Replit](https://replit.com/@iamutkarsh)**
 
-📚 Education
-🎓 B.Tech, Computer Science and Engineering | NIET | 2020-2024 
+<h3 align="left">Languages and Tools:</h3>
 
-Relevant coursework: Data Structures, Algorithms, Operating Systems, Software Engineering,Computer Networks, Database Management Systems.
+<p align="center">
 
-🌟 Passion and Motivation
-Technology drives my curiosity and fuels my passion for continuous learning. I am always eager to explore emerging trends and advancements 
-in the field of computer science. I believe in the power of collaboration and enjoy working in diverse teams to solve complex problems.
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongo,java,git,github,postman">
+
+ </p>
