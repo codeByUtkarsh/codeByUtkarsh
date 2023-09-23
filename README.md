@@ -18,7 +18,7 @@
 
 - 🖥️ DM on **[Replit](https://replit.com/@iamutkarsh)**
 
-<h3 align="left">Languages and Tools:</h3>
+ <h3 align="left">Languages and Tools:</h3>
 
 <p align="center">
 
