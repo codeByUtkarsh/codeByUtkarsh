@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Java & MERN Stack**
 
-<!-- - 👁️‍🗨️ Showcase **[Portfolio]()**-->
+<!-- 👁️‍🗨️ Showcase **[Portfolio]()**-->
 
 - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/theutkarshsrivastava/)**
 
